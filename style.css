@@ -1,0 +1,16 @@
+body
+{
+    text-align: center;
+}
+img
+{
+    height: 500px;
+    width:2000px;
+}
+#details {
+    text-align: center;
+}
+iframe {
+    height: 500px;
+    width:500px;
+}
